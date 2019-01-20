@@ -2,7 +2,7 @@
 ## Hello Tensorspace
 ![](5-exploding.gif)
 ![](5-interactive.gif)<br>
-<b>Click me to explore the model structure.</b>
+<b><a href="https://edmonton-school-of-ai.github.io/Hello-World-Tensorspace/" target="_blank">Click me to explore the model structure.</a></b>
 
 ## Resources
 - Check out the website to explore and play with other models.
